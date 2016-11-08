@@ -1,0 +1,64 @@
+Added Component: Designator=Cb(0603)
+Added Component: Designator=Cc(0603)
+Added Component: Designator=Cf(0603)
+Added Component: Designator=Cin(0603)
+Added Component: Designator=Co(C0805)
+Added Component: Designator=D1(Diode-B1100-SMA)
+Added Component: Designator=D2(Diode-B1100-SMA)
+Added Component: Designator=L1(SRR1280-inductor)
+Added Component: Designator=Q1(TSSOP-14)
+Added Component: Designator=R1(0603)
+Added Component: Designator=Ron(0603)
+Added Component: Designator=Rsns(1210)
+Added Component: Designator=Rsw(0603)
+Added Pin To Net: NetName=GND Pin=Cc-1
+Added Pin To Net: NetName=GND Pin=Cf-1
+Added Pin To Net: NetName=GND Pin=Cin-1
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=Q1-7
+Added Pin To Net: NetName=GND Pin=Rsns-1
+Added Net: Name=GND
+Added Pin To Net: NetName=LED+ Pin=Co-1
+Added Pin To Net: NetName=LED+ Pin=L1-1
+Added Pin To Net: NetName=LED+ Pin=Q1-5
+Added Net: Name=LED+
+Added Pin To Net: NetName=LED- Pin=Co-2
+Added Pin To Net: NetName=LED- Pin=R1-1
+Added Pin To Net: NetName=LED- Pin=Rsns-2
+Added Net: Name=LED-
+Added Pin To Net: NetName=NetCb_1 Pin=Cb-1
+Added Pin To Net: NetName=NetCb_1 Pin=Q1-3
+Added Net: Name=NetCb_1
+Added Pin To Net: NetName=NetCb_2 Pin=Cb-2
+Added Pin To Net: NetName=NetCb_2 Pin=D1-2
+Added Pin To Net: NetName=NetCb_2 Pin=L1-2
+Added Pin To Net: NetName=NetCb_2 Pin=Q1-1
+Added Pin To Net: NetName=NetCb_2 Pin=Q1-2
+Added Net: Name=NetCb_2
+Added Pin To Net: NetName=NetCc_2 Pin=Cc-2
+Added Pin To Net: NetName=NetCc_2 Pin=Q1-9
+Added Net: Name=NetCc_2
+Added Pin To Net: NetName=NetQ1_6 Pin=Q1-6
+Added Pin To Net: NetName=NetQ1_6 Pin=R1-2
+Added Net: Name=NetQ1_6
+Added Pin To Net: NetName=NetQ1_8 Pin=Q1-8
+Added Pin To Net: NetName=NetQ1_8 Pin=Rsw-2
+Added Net: Name=NetQ1_8
+Added Pin To Net: NetName=NetQ1_10 Pin=Q1-10
+Added Pin To Net: NetName=NetQ1_10 Pin=Ron-1
+Added Net: Name=NetQ1_10
+Added Pin To Net: NetName=P_OFF_ON Pin=Rsw-1
+Added Net: Name=P_OFF_ON
+Added Pin To Net: NetName=VCC Pin=Cf-2
+Added Pin To Net: NetName=VCC Pin=Q1-11
+Added Net: Name=VCC
+Added Pin To Net: NetName=VIN Pin=Cin-2
+Added Pin To Net: NetName=VIN Pin=D2-2
+Added Pin To Net: NetName=VIN Pin=Q1-12
+Added Pin To Net: NetName=VIN Pin=Q1-13
+Added Pin To Net: NetName=VIN Pin=Q1-14
+Added Pin To Net: NetName=VIN Pin=Ron-2
+Added Net: Name=VIN
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

@@ -1,0 +1,3 @@
+Added Component: Designator=Cin2(0603)
+Added Pin To Net: NetName=GND Pin=Cin2-1
+Added Pin To Net: NetName=VIN Pin=Cin2-2

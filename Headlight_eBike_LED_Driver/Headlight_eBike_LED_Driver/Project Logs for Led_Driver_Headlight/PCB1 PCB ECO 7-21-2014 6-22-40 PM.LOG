@@ -1,0 +1,6 @@
+Added Component: Designator=D1(Diode-B1100-SMA)
+Added Component: Designator=D2(Diode-B1100-SMA)
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetCb_2 Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=VIN Pin=D2-2
